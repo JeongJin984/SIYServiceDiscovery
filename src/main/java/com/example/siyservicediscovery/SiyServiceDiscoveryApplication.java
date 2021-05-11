@@ -10,5 +10,4 @@ public class SiyServiceDiscoveryApplication {
     public static void main(String[] args) {
         SpringApplication.run(SiyServiceDiscoveryApplication.class, args);
     }
-
 }
